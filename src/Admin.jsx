@@ -33,7 +33,7 @@ const Admin = () => {
   };
   return (
     <Layout>
-      <HomeLayout>Generation Thailand React - Assesment</HomeLayout>
+      <HomeLayout>Generation Thailand React - Assessment</HomeLayout>
       <div className="admin-form">
         <h4>Create User Here</h4>
         {/* Form for Creating New Member */}
